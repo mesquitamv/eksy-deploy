@@ -1,0 +1,8 @@
+[submodule "terraform/eks/modules/aws_eks"]
+	path = terraform/eks/modules/aws_eks
+	url = https://github.com/mesquitamv/aws_eks
+	branch = master
+[submodule "terraform/eks/modules/aws_vpc"]
+	path = terraform/eks/modules/aws_vpc
+	url = https://github.com/mesquitamv/aws_vpc
+	branch = master
